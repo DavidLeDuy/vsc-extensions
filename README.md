@@ -7,6 +7,7 @@ Bash for useful VS Code extensions
 1.  ### Comment Anchor
 
     Publisher: Exodius Studios
+    
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors
 
     ***
@@ -14,6 +15,7 @@ Bash for useful VS Code extensions
 2.  ### Prettier - Code formatter
 
     Publisher: Esben Petersen
+
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
     **Settings**
