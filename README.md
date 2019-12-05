@@ -80,3 +80,9 @@ Bash for useful VS Code extensions
 
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
     ***
+7.  ### DotENV
+ 
+    Publisher: mikestead
+
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
+    ***
