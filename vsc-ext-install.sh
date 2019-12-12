@@ -1,3 +1,4 @@
+#!/bin/bash
 code --install-extension kevinkyang.auto-comment-blocks
 code --install-extension exodiusstudios.comment-anchors
 code --install-extension pkief.material-icon-theme
