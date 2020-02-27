@@ -63,7 +63,13 @@ Bash for useful VS Code extensions
     Publisher: Mattia Astorino
 
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
-
+    
+    
+    **Settings**
+    ````
+        "workbench.iconTheme": "material-icon-theme",
+        "workbench.colorTheme": "Material Theme Ocean"
+    ````
     ***
 
 7.  ### indent-rainbow
